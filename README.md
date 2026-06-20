@@ -1,5 +1,4 @@
 
-
 # Library Database Analysis Using SQL
 
 ## Project Overview
